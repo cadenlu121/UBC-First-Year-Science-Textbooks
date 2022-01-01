@@ -17,4 +17,4 @@
 
 [**PHYS 117**](https://assets.openstax.org/oscms-prodcms/media/documents/UniversityPhysicsVol1-WEB.pdf)
 
-[<img src="https://cdn.discordapp.com/attachments/801917498588397610/926767715341979668/Screen_Shot_2022-01-01_at_1.23.42_AM.png">](https://mega.nz/file/Ew1EFIKD#bpfWgY8lj-Sj4Z3VOKL1R2-LPfJjjGHhqzlSV0ITpqo)
+[<img src="https://cdn.discordapp.com/attachments/801917498588397610/926767715341979668/Screen_Shot_2022-01-01_at_1.23.42_AM.png">](https://assets.openstax.org/oscms-prodcms/media/documents/UniversityPhysicsVol1-WEB.pdf)

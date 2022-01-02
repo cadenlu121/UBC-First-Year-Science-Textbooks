@@ -1,6 +1,6 @@
 # UBC First Year Science Textbooks
 #### dm me on discord @cadenlu121#2535 if you want another textbook listed here that isn't there already (INCLUDE SCREENSHOT PLS)
-#### updated as of Jan 1st, 2022
+#### updated as of Jan 2nd, 2022
 ________________________________________________________________________________________________________________________________________________________________
 
 [**BIOL 121**](https://mega.nz/file/Motk1SpT#1EMtnhw_eBc2CAMYWDgCKK4Yeo-FonouGLJ1_PRX8Fg)

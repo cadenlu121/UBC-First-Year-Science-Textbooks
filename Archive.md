@@ -11,6 +11,7 @@ ________________________________________________________________________________
 [**MATH 100**](https://personal.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf)
 
 [<img src="https://media.discordapp.net/attachments/801917498588397610/927336023313240114/Screen_Shot_2022-01-02_at_3.02.12_PM.png?width=255&height=330">](https://personal.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf)
+[text](https://personal.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf)
 
 [problem book](https://personal.math.ubc.ca/~CLP/CLP1/clp_1_dc_problems.pdf)
 
